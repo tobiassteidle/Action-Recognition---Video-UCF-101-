@@ -8,13 +8,13 @@ Classification of Human Actions in a Video
 Unzip to [data/](data/) directory
 
 ## Additional Information
-Tensorflow Version: GPU 1.5.0
+Tensorflow Version: GPU 2.0
 
 ## Installation
 1. Create and activate a new environment.
 ```
-conda create -n video python=3.6
-source activate video
+conda create -n action python=3.6
+source activate action
 ```
 2. Install Dependencies.
 ```
@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 ### Launch Jupyter notebook
 ```
-jupyter notebook "Video Classification.ipynb"
+jupyter notebook "Action Recognition.ipynb"
 ```
 
 ### Additional commands
