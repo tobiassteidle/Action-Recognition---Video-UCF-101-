@@ -111,4 +111,5 @@ backup/
 .idea
 
 # Data
-data/
+data/UCF-101
+data/*.txt
